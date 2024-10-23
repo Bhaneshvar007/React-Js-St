@@ -1,0 +1,40 @@
+fieldset {
+    width: 280px;
+    border-radius: 5px;
+}
+
+fieldset button {
+    background-color: royalblue;
+    padding: .8rem 2.5rem;
+    color: aliceblue;
+    border: 0;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+li {
+    padding: 10px;
+
+}
+
+.newDiv {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid gray;
+}
+
+
+.newDiv button {
+    padding: 10px;
+    cursor: pointer;
+    background-color: red;
+    color: aliceblue;
+    border: 2px solid red;
+}
+
+input {
+    margin-right: 5px;
+    padding: 10px;
+}
