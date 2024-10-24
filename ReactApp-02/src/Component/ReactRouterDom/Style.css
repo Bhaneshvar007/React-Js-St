@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #333;
+}
+
+Link {
+    text-decoration: none;
+
+}
+
+.child {
+    display: flex;
+    gap: 2rem;
+}
+
+.child li {
+    list-style: none;
+    font-weight: bold;
+    font-size: 1.3rem;
+    color: #000;
+}

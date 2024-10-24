@@ -1,0 +1,15 @@
+fieldset {
+    margin: 20px auto;
+    width: 300px;
+    padding: 20px;
+}
+
+input {
+    width: 90%;
+    padding: 5px;
+}
+
+button {
+    padding: 8px 25px;
+    cursor: pointer;
+}
